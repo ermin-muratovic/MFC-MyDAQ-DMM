@@ -15,7 +15,7 @@ Clone this project and execute in Visual Studio or download and start MFC-MyDAQ-
 
 ## Authors
 
-* [**Ermin Muratovic**](https://github.com/ermin-muratovic) - *owner*
+* [**Ermin Muratovic**](https://github.com/ermin-muratovic)
 * [**Manuel Guggenberger**](https://github.com/VillachGhost1)
 
 ## License
